@@ -1,4 +1,8 @@
-# Post
+# Como usar
+Para usar a API no Postman, é preciso rodar o arquivo Checkpoint1Application, usando jdk 17, e entrar com o link:
+http://localhost:8080/pedidos
+
+# Post 
 
 ![Captura de tela 2025-04-30 181840](https://github.com/user-attachments/assets/be3826ae-7de3-45dd-8e88-f25d1fac62fe)
 
